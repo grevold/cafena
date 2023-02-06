@@ -10,4 +10,7 @@ export const resources = {
       "./../img/photos/advantages_3.png",
     ],
   },
+  AboutUs:{
+    Greeting:"./../img/photos/About_Us_greeting_img.jpg",
+  }
 };
