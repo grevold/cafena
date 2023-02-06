@@ -1,5 +1,5 @@
-import s from "./../pages/style.module.css";
-import { resources } from "../resources/resources";
+import s from "./Home.module.css";
+import { resources } from "../../resources/resources";
 
 function Home() {
   const {Advantages,Greeting,Roasted} = resources.Home;
